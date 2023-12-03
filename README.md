@@ -10,8 +10,11 @@ El programa tiene integrados 4 ejemplos de giros, que con solo escribir 1,2,3 o 
 Los cosenos directores son un grupo de 3*3 valores que indican los 3 giros del eje del plano inclinado respecto al eje plano principal
 
 Por ejemplo, para un giro muy comun de A45 C45
+
  X1= 0.707: Y1= 0.707: Z1= 0.000
+ 
  X2=-0.500: Y2= 0.500: Z2= 0.707
+ 
  X3= 0.500: Y3=-0.500: Z3= 0.707
  
 Ademas, el programa, da el eje redondeado a 2.5 grados, para maquinas con cabezales que solo giran de 2.5 en 2.5 
