@@ -44,7 +44,7 @@ Color 7
 
 Color 0
 Print "Teclea los tres vectores que conforman los cosenos directores del eje a tratar " 
-Print "El eje debe ser normal al plano inclinado y debe estar activo deja el principal, no el girado"
+Print "El eje debe ser normal al plano inclinado y debe estar activo el principal, no el girado"
 Print ""
 Print "La 'X' del eje a calcular debe ir como en el CNC, en direccion 'plano mesa XY' no hacia abajo o arriba"
 Print "y la 'Z' apuntando hacia afuera del plano inclinado, no hacia dentro"
